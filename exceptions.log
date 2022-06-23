@@ -1,0 +1,1076 @@
+2022-03-07T17:10:01.853Z [right meow!] error: uncaughtException: listen EADDRINUSE: address already in use :::5000
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\index.js:101:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12) : undefined
+2022-03-07T17:10:37.332Z [right meow!] error: uncaughtException: listen EADDRINUSE: address already in use :::5000
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\index.js:101:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12) : undefined
+2022-03-07T17:35:49.252Z [right meow!] error: uncaughtException: listen EADDRINUSE: address already in use :::5000
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\index.js:101:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12) : undefined
+2022-03-07T17:41:13.186Z [right meow!] error: uncaughtException: listen EADDRINUSE: address already in use :::5000
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\index.js:101:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12) : undefined
+2022-03-07T17:42:12.382Z [right meow!] error: uncaughtException: listen EADDRINUSE: address already in use :::5000
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\index.js:106:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12) : undefined
+2022-03-07T17:42:17.362Z [right meow!] error: uncaughtException: listen EADDRINUSE: address already in use :::5000
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\index.js:106:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12) : undefined
+2022-03-07T17:44:36.323Z [right meow!] error: uncaughtException: listen EADDRINUSE: address already in use :::5000
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\index.js:106:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+2022-03-07T17:44:40.439Z [right meow!] error: uncaughtException: listen EADDRINUSE: address already in use :::5000
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\index.js:106:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+2022-03-07T17:45:44.947Z [undefined] error: uncaughtException: listen EADDRINUSE: address already in use :::5000
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\index.js:106:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+2022-03-07T17:46:02.670Z [undefined] error: uncaughtException: listen EADDRINUSE: address already in use :::5000
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\index.js:106:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+2022-03-07T17:46:44.806Z [right meow!] error: uncaughtException: listen EADDRINUSE: address already in use :::5000
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\index.js:106:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+2022-03-07T17:46:48.647Z [right meow!] error: uncaughtException: listen EADDRINUSE: address already in use :::5000
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\index.js:106:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+2022-03-07T17:47:54.878Z [right meow!] error: uncaughtException: listen EADDRINUSE: address already in use :::5000
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\index.js:106:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+2022-03-07T17:47:57.544Z [right meow!] error: uncaughtException: listen EADDRINUSE: address already in use :::5000
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\index.js:106:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+2022-03-07T17:51:39.285Z [undefined] error: uncaughtException: listen EADDRINUSE: address already in use :::5000
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\index.js:106:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+2022-03-07T17:51:42.816Z [undefined] error: uncaughtException: listen EADDRINUSE: address already in use :::5000
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\index.js:106:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+2022-03-07T17:53:37.680Z [undefined] error: uncaughtException: listen EADDRINUSE: address already in use :::5000
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\index.js:106:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+2022-03-07T17:53:39.677Z [undefined] error: uncaughtException: listen EADDRINUSE: address already in use :::5000
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\index.js:106:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+2022-03-07T17:53:42.911Z [undefined] error: uncaughtException: listen EADDRINUSE: address already in use :::5000
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\index.js:106:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+2022-03-07T18:33:50.800Z [undefined] error: uncaughtException: listen EADDRINUSE: address already in use :::5000
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\index.js:106:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+2022-03-07T18:34:12.100Z [undefined] error: uncaughtException: listen EADDRINUSE: address already in use :::5000
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\index.js:106:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+2022-03-07T18:41:21.306Z [undefined] error: uncaughtException: listen EADDRINUSE: address already in use :::5000
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\index.js:106:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+2022-03-07T19:01:52.623Z [undefined] error: uncaughtException: listen EADDRINUSE: address already in use :::5000
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\index.js:106:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+2022-03-07T19:04:58.796Z [undefined] error: uncaughtException: listen EADDRINUSE: address already in use :::5000
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\index.js:106:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+2022-03-07T19:05:05.954Z [undefined] error: uncaughtException: listen EADDRINUSE: address already in use :::5000
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\index.js:106:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+2022-03-07T19:39:59.443Z [undefined] error: uncaughtException: listen EADDRINUSE: address already in use :::5000
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\index.js:106:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+2022-03-07T19:40:14.631Z [undefined] error: uncaughtException: listen EADDRINUSE: address already in use :::5000
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\index.js:106:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+2022-03-07T21:29:24.599Z [undefined] error: uncaughtException: The "path" argument must be of type string. Received an instance of Object
+TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received an instance of Object
+    at validateString (internal/validators.js:124:11)
+    at Object.resolve (path.js:139:9)
+    at GoogleAuth.getClient (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\node_modules\google-auth-library\build\src\auth\googleauth.js:553:39)
+    at GrpcClient._getCredentials (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\node_modules\google-gax\build\src\grpc.js:145:40)
+    at GrpcClient.createStub (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\node_modules\google-gax\build\src\grpc.js:308:34)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+2022-03-07T21:29:45.986Z [undefined] error: uncaughtException: The "path" argument must be of type string. Received an instance of Object
+TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received an instance of Object
+    at validateString (internal/validators.js:124:11)
+    at Object.resolve (path.js:139:9)
+    at GoogleAuth.getClient (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\node_modules\google-auth-library\build\src\auth\googleauth.js:553:39)
+    at GrpcClient._getCredentials (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\node_modules\google-gax\build\src\grpc.js:145:40)
+    at GrpcClient.createStub (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\node_modules\google-gax\build\src\grpc.js:308:34)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+2022-03-07T21:31:55.100Z [undefined] error: uncaughtException: The "path" argument must be of type string. Received an instance of Object
+TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received an instance of Object
+    at validateString (internal/validators.js:124:11)
+    at Object.resolve (path.js:139:9)
+    at GoogleAuth.getClient (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\node_modules\google-auth-library\build\src\auth\googleauth.js:553:39)
+    at GrpcClient._getCredentials (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\node_modules\google-gax\build\src\grpc.js:145:40)
+    at GrpcClient.createStub (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\node_modules\google-gax\build\src\grpc.js:308:34)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+2022-03-07T21:33:08.100Z [undefined] error: uncaughtException: The "path" argument must be of type string. Received an instance of Object
+TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received an instance of Object
+    at validateString (internal/validators.js:124:11)
+    at Object.resolve (path.js:139:9)
+    at GoogleAuth.getClient (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\node_modules\google-auth-library\build\src\auth\googleauth.js:553:39)
+    at GrpcClient._getCredentials (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\node_modules\google-gax\build\src\grpc.js:145:40)
+    at GrpcClient.createStub (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\node_modules\google-gax\build\src\grpc.js:308:34)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+2022-03-07T21:34:16.799Z [undefined] error: uncaughtException: ENOENT: no such file or directory, open 'D:\Documents\Smartech\Aireum\aireumapp-logger-service-account-file.json'
+Error: ENOENT: no such file or directory, open 'D:\Documents\Smartech\Aireum\aireumapp-logger-service-account-file.json'
+2022-03-07T21:39:21.210Z [undefined] error: uncaughtException: ENOENT: no such file or directory, open 'D:\Documents\Smartech\Aireum\aireumapp-logger-service-account-file.json'
+Error: ENOENT: no such file or directory, open 'D:\Documents\Smartech\Aireum\aireumapp-logger-service-account-file.json'
+2022-03-08T17:13:25.664Z [undefined] error: uncaughtException: Route.post() requires a callback function but got a [object Undefined]
+Error: Route.post() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as post] (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\node_modules\express\lib\router\route.js:202:15)
+    at Function.app.<computed> [as post] (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\node_modules\express\lib\application.js:482:19)
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\index.js:104:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+    at internal/main/run_main_module.js:17:47
+2022-03-08T17:15:58.617Z [undefined] error: uncaughtException: Route.post() requires a callback function but got a [object Undefined]
+Error: Route.post() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as post] (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\node_modules\express\lib\router\route.js:202:15)
+    at Function.app.<computed> [as post] (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\node_modules\express\lib\application.js:482:19)
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\index.js:104:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+    at internal/main/run_main_module.js:17:47
+2022-03-08T17:16:15.704Z [undefined] error: uncaughtException: Route.post() requires a callback function but got a [object Undefined]
+Error: Route.post() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as post] (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\node_modules\express\lib\router\route.js:202:15)
+    at Function.app.<computed> [as post] (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\node_modules\express\lib\application.js:482:19)
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\index.js:104:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+    at internal/main/run_main_module.js:17:47
+2022-03-08T17:21:27.944Z [undefined] error: uncaughtException: ENOENT: no such file or directory, open 'D:\Documents\Smartech\Aireum\aireumapp-logger-service-account-file.json'
+Error: ENOENT: no such file or directory, open 'D:\Documents\Smartech\Aireum\aireumapp-logger-service-account-file.json'
+2022-03-08T17:22:08.162Z [undefined] error: uncaughtException: ENOENT: no such file or directory, open 'D:\Documents\Smartech\Aireum\aireumapp-logger-service-account-file.json'
+Error: ENOENT: no such file or directory, open 'D:\Documents\Smartech\Aireum\aireumapp-logger-service-account-file.json'
+2022-03-08T17:23:32.041Z [undefined] error: uncaughtException: ENOENT: no such file or directory, open 'D:\Documents\Smartech\Aireum\aireumapp-logger-service-account-file.json'
+Error: ENOENT: no such file or directory, open 'D:\Documents\Smartech\Aireum\aireumapp-logger-service-account-file.json'
+2022-03-08T17:25:08.019Z [undefined] error: uncaughtException: ENOENT: no such file or directory, open 'D:\Documents\Smartech\Aireum\aireumapp-logger-service-account-file.json'
+Error: ENOENT: no such file or directory, open 'D:\Documents\Smartech\Aireum\aireumapp-logger-service-account-file.json'
+2022-03-08T17:25:46.293Z [undefined] error: uncaughtException: ENOENT: no such file or directory, open 'D:\Documents\Smartech\Aireum\aireumapp-logger-service-account-file.json'
+Error: ENOENT: no such file or directory, open 'D:\Documents\Smartech\Aireum\aireumapp-logger-service-account-file.json'
+2022-03-08T17:26:06.320Z [undefined] error: uncaughtException: ENOENT: no such file or directory, open 'D:\Documents\Smartech\Aireum\aireumapp-logger-service-account-file.json'
+Error: ENOENT: no such file or directory, open 'D:\Documents\Smartech\Aireum\aireumapp-logger-service-account-file.json'
+2022-03-08T17:26:34.033Z [undefined] error: uncaughtException: ENOENT: no such file or directory, open 'D:\Documents\Smartech\Aireum\aireumapp-logger-service-account-file.json'
+Error: ENOENT: no such file or directory, open 'D:\Documents\Smartech\Aireum\aireumapp-logger-service-account-file.json'
+2022-03-08T17:27:13.067Z [undefined] error: uncaughtException: ENOENT: no such file or directory, open 'D:\Documents\Smartech\Aireum\aireumapp-logger-service-account-file.json'
+Error: ENOENT: no such file or directory, open 'D:\Documents\Smartech\Aireum\aireumapp-logger-service-account-file.json'
+2022-03-08T17:28:56.205Z [undefined] error: uncaughtException: ENOENT: no such file or directory, open 'D:\Documents\Smartech\Aireum\aireumapp-logger-service-account-file.json'
+Error: ENOENT: no such file or directory, open 'D:\Documents\Smartech\Aireum\aireumapp-logger-service-account-file.json'
+2022-03-08T17:32:16.618Z [undefined] error: uncaughtException: ENOENT: no such file or directory, open 'D:\Documents\Smartech\Aireum\aireumapp-logger-service-account-file.json'
+Error: ENOENT: no such file or directory, open 'D:\Documents\Smartech\Aireum\aireumapp-logger-service-account-file.json'
+2022-03-08T17:34:25.492Z [undefined] error: uncaughtException: ENOENT: no such file or directory, open 'D:\Documents\Smartech\Aireum\aireumapp-logger-service-account-file.json'
+Error: ENOENT: no such file or directory, open 'D:\Documents\Smartech\Aireum\aireumapp-logger-service-account-file.json'
+2022-03-08T17:34:58.670Z [undefined] error: uncaughtException: ENOENT: no such file or directory, open 'D:\Documents\Smartech\Aireum\aireumapp-logger-service-account-file.json'
+Error: ENOENT: no such file or directory, open 'D:\Documents\Smartech\Aireum\aireumapp-logger-service-account-file.json'
+2022-03-08T17:35:20.307Z [undefined] error: uncaughtException: ENOENT: no such file or directory, open 'D:\Documents\Smartech\Aireum\aireumapp-logger-service-account-file.json'
+Error: ENOENT: no such file or directory, open 'D:\Documents\Smartech\Aireum\aireumapp-logger-service-account-file.json'
+2022-03-08T19:05:07.990Z [undefined] error: uncaughtException: ENOENT: no such file or directory, open 'D:\Documents\Smartech\Aireum\aireumapp-logger-service-account-file.json'
+Error: ENOENT: no such file or directory, open 'D:\Documents\Smartech\Aireum\aireumapp-logger-service-account-file.json'
+2022-03-08T19:07:16.206Z [undefined] error: uncaughtException: ENOENT: no such file or directory, open 'D:\Documents\Smartech\Aireum\aireumapp-logger-service-account-file.json'
+Error: ENOENT: no such file or directory, open 'D:\Documents\Smartech\Aireum\aireumapp-logger-service-account-file.json'
+2022-03-08T19:08:19.637Z [undefined] error: uncaughtException: ENOENT: no such file or directory, open 'D:\Documents\Smartech\Aireum\aireumapp-logger-service-account-file.json'
+Error: ENOENT: no such file or directory, open 'D:\Documents\Smartech\Aireum\aireumapp-logger-service-account-file.json'
+2022-03-08T19:24:41.017Z [undefined] error: uncaughtException: ENOENT: no such file or directory, open 'D:\Documents\Smartech\Aireum\aireumapp-logger-service-account-file.json'
+Error: ENOENT: no such file or directory, open 'D:\Documents\Smartech\Aireum\aireumapp-logger-service-account-file.json'
+2022-03-08T20:51:58.503Z [undefined] error: uncaughtException: Unexpected token 'export'
+D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\services\appLog.js:54
+export { AppLog, setModuleName };
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\services\algolia.js:3:20)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2022-03-08T20:52:09.428Z [undefined] error: uncaughtException: Unexpected token 'export'
+D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\services\appLog.js:54
+export { AppLog, setModuleName };
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\services\algolia.js:3:20)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2022-03-08T20:52:26.786Z [undefined] error: uncaughtException: Unexpected token 'export'
+D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\services\appLog.js:54
+export { AppLog, setModuleName };
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\services\algolia.js:3:20)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2022-03-08T20:52:33.537Z [undefined] error: uncaughtException: Unexpected token 'export'
+D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\services\appLog.js:54
+export { AppLog, setModuleName };
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\services\algolia.js:3:20)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2022-03-08T20:53:30.462Z [undefined] error: uncaughtException: Unexpected token 'export'
+D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\services\appLog.js:54
+export { AppLog, setModuleName };
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\services\algolia.js:3:20)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2022-03-08T20:53:44.291Z [undefined] error: uncaughtException: Unexpected token 'export'
+D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\services\appLog.js:54
+export { AppLog, setModuleName };
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\services\algolia.js:3:20)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2022-03-08T20:53:50.517Z [undefined] error: uncaughtException: Unexpected token 'export'
+D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\services\appLog.js:54
+export { AppLog, setModuleName };
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\services\algolia.js:3:20)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2022-03-08T20:54:15.524Z [undefined] error: uncaughtException: Unexpected token 'export'
+D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\services\appLog.js:54
+export { AppLog, setModuleName };
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\services\algolia.js:3:20)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2022-03-09T16:59:26.253Z [undefined] error: uncaughtException: mode is not defined
+ReferenceError: mode is not defined
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\services\appLog.js:23:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\services\algolia.js:3:16)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2022-03-09T16:59:52.456Z [undefined] error: uncaughtException: mode is not defined
+ReferenceError: mode is not defined
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\services\appLog.js:23:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\services\algolia.js:3:16)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2022-03-09T17:03:03.450Z [undefined] error: uncaughtException: mode is not defined
+ReferenceError: mode is not defined
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\services\appLog.js:23:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\services\algolia.js:3:16)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2022-03-09T17:04:09.752Z [undefined] error: uncaughtException: mode is not defined
+ReferenceError: mode is not defined
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\services\appLog.js:23:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\services\algolia.js:3:16)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2022-03-10T17:06:56.948Z [undefined] error: uncaughtException: Cannot read property 'get' of undefined
+TypeError: Cannot read property 'get' of undefined
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\util\stacktrace.js:16:26)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\services\algolia.js:2:19)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2022-03-10T17:07:05.722Z [undefined] error: uncaughtException: Cannot read property 'get' of undefined
+TypeError: Cannot read property 'get' of undefined
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\util\stacktrace.js:16:26)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\services\algolia.js:2:19)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2022-03-10T17:25:23.791Z [undefined] error: uncaughtException: trace is not a function
+TypeError: trace is not a function
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\index.js:58:1)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+    at internal/main/run_main_module.js:17:47
+2022-03-10T17:25:51.403Z [undefined] error: uncaughtException: trace is not a function
+TypeError: trace is not a function
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\index.js:58:1)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+    at internal/main/run_main_module.js:17:47
+2022-03-10T17:26:25.252Z [undefined] error: uncaughtException: trace is not a function
+TypeError: trace is not a function
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\index.js:58:1)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+    at internal/main/run_main_module.js:17:47
+2022-03-10T17:28:23.530Z [undefined] error: uncaughtException: trace is not a function
+TypeError: trace is not a function
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\index.js:58:1)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+    at internal/main/run_main_module.js:17:47
+2022-03-10T17:34:49.883Z [undefined] error: uncaughtException: StackTrace.getSync(...).then is not a function
+TypeError: StackTrace.getSync(...).then is not a function
+    at trace (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\util\stacktrace.js:23:24)
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\index.js:58:1)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+    at internal/main/run_main_module.js:17:47
+2022-03-10T17:35:12.673Z [undefined] error: uncaughtException: StackTrace.getSync(...).then is not a function
+TypeError: StackTrace.getSync(...).then is not a function
+    at trace (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\util\stacktrace.js:23:24)
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\index.js:58:1)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+    at internal/main/run_main_module.js:17:47
+2022-03-10T17:35:17.102Z [undefined] error: uncaughtException: StackTrace.getSync(...).then is not a function
+TypeError: StackTrace.getSync(...).then is not a function
+    at trace (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\util\stacktrace.js:23:24)
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\index.js:58:1)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+    at internal/main/run_main_module.js:17:47
+2022-03-10T17:40:24.622Z [undefined] error: uncaughtException: trace is not a function
+TypeError: trace is not a function
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\index.js:58:1)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+    at internal/main/run_main_module.js:17:47
+2022-03-11T15:48:17.685Z [undefined] error: uncaughtException: Identifier 'mode' has already been declared
+D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\services\appLog.js:84
+  let mode;
+      ^
+
+SyntaxError: Identifier 'mode' has already been declared
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\services\algolia.js:4:16)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2022-03-11T15:48:44.323Z [undefined] error: uncaughtException: Identifier 'mode' has already been declared
+D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\services\appLog.js:76
+  let mode;
+      ^
+
+SyntaxError: Identifier 'mode' has already been declared
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\services\algolia.js:4:16)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2022-03-11T17:36:14.519Z [undefined] error: uncaughtException: Identifier 'mode' has already been declared
+D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\services\appLog.js:148
+  let mode = 'PROD';
+      ^
+
+SyntaxError: Identifier 'mode' has already been declared
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\services\algolia.js:4:16)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2022-03-11T17:36:37.747Z [undefined] error: uncaughtException: Identifier 'mode' has already been declared
+D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\services\appLog.js:148
+  let mode = 'PROD';
+      ^
+
+SyntaxError: Identifier 'mode' has already been declared
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\services\algolia.js:4:16)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2022-03-11T17:37:54.760Z [undefined] error: uncaughtException: Identifier 'mode' has already been declared
+D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\services\appLog.js:148
+  let mode = 'PROD';
+      ^
+
+SyntaxError: Identifier 'mode' has already been declared
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\services\algolia.js:4:16)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2022-03-11T17:38:24.331Z [undefined] error: uncaughtException: Identifier 'mode' has already been declared
+D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\services\appLog.js:148
+  let mode = 'PROD';
+      ^
+
+SyntaxError: Identifier 'mode' has already been declared
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\services\algolia.js:4:16)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2022-03-11T17:39:37.779Z [undefined] error: uncaughtException: Identifier 'mode' has already been declared
+D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\services\appLog.js:148
+  let mode = 'PROD';
+      ^
+
+SyntaxError: Identifier 'mode' has already been declared
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\services\algolia.js:4:16)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2022-03-11T17:39:46.582Z [undefined] error: uncaughtException: Identifier 'mode' has already been declared
+D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\services\appLog.js:148
+  let mode = 'PROD';
+      ^
+
+SyntaxError: Identifier 'mode' has already been declared
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\services\algolia.js:4:16)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2022-03-11T17:39:58.704Z [undefined] error: uncaughtException: Identifier 'mode' has already been declared
+D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\services\appLog.js:148
+  let mode = 'PROD';
+      ^
+
+SyntaxError: Identifier 'mode' has already been declared
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\services\algolia.js:4:16)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2022-03-11T17:40:42.823Z [undefined] error: uncaughtException: Identifier 'mode' has already been declared
+D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\services\appLog.js:148
+  let mode = 'PROD';
+      ^
+
+SyntaxError: Identifier 'mode' has already been declared
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\services\algolia.js:4:16)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2022-03-11T18:33:07.677Z [undefined] error: uncaughtException: st is not defined
+ReferenceError: st is not defined
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\services\appLog.js:15:23)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\services\algolia.js:4:16)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2022-03-11T18:33:32.923Z [undefined] error: uncaughtException: st is not defined
+ReferenceError: st is not defined
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\services\appLog.js:15:23)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\services\algolia.js:4:16)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2022-03-11T18:36:29.450Z [undefined] error: uncaughtException: Cannot read property 'then' of undefined
+TypeError: Cannot read property 'then' of undefined
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\services\appLog.js:13:8)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\services\algolia.js:4:16)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2022-03-11T20:14:11.540Z [undefined] error: uncaughtException: Cannot read property 'then' of undefined
+TypeError: Cannot read property 'then' of undefined
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\services\appLog.js:13:17)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\services\algolia.js:4:16)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2022-03-11T20:14:19.184Z [undefined] error: uncaughtException: Cannot read property 'then' of undefined
+TypeError: Cannot read property 'then' of undefined
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\services\appLog.js:13:17)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\services\algolia.js:4:16)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2022-03-11T20:18:57.471Z [undefined] error: uncaughtException: Unexpected token ')'
+D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\services\algolia.js:76
+  console.log("stack is ",stack))
+                                ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:979:16)
+    at Module._compile (internal/modules/cjs/loader.js:1027:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\index.js:53:42)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+2022-03-11T22:03:26.828Z [undefined] error: uncaughtException: Cannot find module './appLog'
+Require stack:
+- D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\services\algolia.js
+- D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\index.js
+Error: Cannot find module './appLog'
+Require stack:
+- D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\services\algolia.js
+- D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:880:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:725:27)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\services\algolia.js:4:16)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+2022-03-11T22:03:52.762Z [undefined] error: uncaughtException: Cannot find module './appLog'
+Require stack:
+- D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\services\algolia.js
+- D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\index.js
+Error: Cannot find module './appLog'
+Require stack:
+- D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\services\algolia.js
+- D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:880:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:725:27)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\services\algolia.js:4:16)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+2022-03-11T22:22:47.895Z [undefined] error: uncaughtException: Cannot find module './services/logging'
+Require stack:
+- D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\index.js
+Error: Cannot find module './services/logging'
+Require stack:
+- D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:880:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:725:27)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\index.js:55:27)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+2022-03-11T22:23:14.677Z [undefined] error: uncaughtException: writeLogEntry is not defined
+ReferenceError: writeLogEntry is not defined
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\index.js:104:22)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+    at internal/main/run_main_module.js:17:47
+2022-03-11T22:25:11.866Z [undefined] error: uncaughtException: writeLogEntry is not defined
+ReferenceError: writeLogEntry is not defined
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\index.js:104:22)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+    at internal/main/run_main_module.js:17:47
+2022-03-11T22:25:51.579Z [undefined] error: uncaughtException: writeLogEntry is not defined
+ReferenceError: writeLogEntry is not defined
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\index.js:104:22)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+    at internal/main/run_main_module.js:17:47
+2022-05-13T17:06:45.756Z [undefined] error: uncaughtException: listen EADDRINUSE: address already in use :::5000
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\index.js:125:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+2022-06-05T15:04:01.619Z [undefined] error: uncaughtException: listen EADDRINUSE: address already in use :::5000
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\index.js:125:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+2022-06-05T15:04:22.621Z [undefined] error: uncaughtException: listen EADDRINUSE: address already in use :::5000
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\index.js:125:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+2022-06-05T15:06:15.736Z [undefined] error: uncaughtException: listen EADDRINUSE: address already in use :::5000
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\index.js:125:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+2022-06-07T21:26:39.786Z [undefined] error: uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\node_modules\express\lib\router\route.js:202:15)
+    at Function.app.<computed> [as get] (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\node_modules\express\lib\application.js:482:19)
+    at Object.<anonymous> (D:\Documents\Smartech\Aireum\Aireum_WebApp\aireum-webapp\server\index.js:91:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+    at internal/main/run_main_module.js:17:47

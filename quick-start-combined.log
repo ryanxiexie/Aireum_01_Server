@@ -1,0 +1,149 @@
+{"are":{"Album":"Movies","Area":"","Genres":"Crime","Language":"","Year":"","search":""},"level":"info","message":"logger filter req is","service":"your-service-name","timestamp":"2022-03-04 15:28:02"}
+{"Album":"Movies","Area":"","Genres":"Crime","Language":"","Year":"","level":"info","message":"lgger filter req is","search":"","service":"your-service-name","timestamp":"2022-03-04 15:30:14"}
+{"Album":"Movies","Area":"","Genres":"Crime","Language":"","Year":"","level":"info","message":"lgger filter req is","search":"","timestamp":"2022-03-04 15:31:57"}
+{"Album":"Movies","Area":"","Genres":"Crime","Language":"","Year":"","level":"info","message":"lgger filter req is","search":"","timestamp":"2022-03-04 15:32:48"}
+{"Album":"Movies","Area":"","Genres":"Crime","Language":"","Year":"","level":"error","message":"lgger filter req is","search":"","timestamp":"2022-03-04 15:32:48"}
+{"Album":"Movies","Area":"","Genres":"Crime","Language":"","Year":"","level":"info","message":"lgger filter req is","search":"","timestamp":"2022-03-04 15:36:31"}
+{"Album":"Movies","Area":"","Genres":"Crime","Language":"","Year":"","level":"error","message":"lgger filter req is","search":"","timestamp":"2022-03-04 15:36:31"}
+{"Album":"Movies","Area":"","Genres":"Crime","Language":"","Year":"","level":"info","message":"lgger filter req is","search":"","timestamp":"2022-03-04 15:37:07"}
+{"Album":"Movies","Area":"","Genres":"Crime","Language":"","Year":"","level":"error","message":"lgger filter req is","search":"","timestamp":"2022-03-04 15:37:07"}
+{"Album":"Movies","Area":"","Genres":"Crime","Language":"","Year":"","level":"info","message":"logger filter req is","search":"","timestamp":"2022-03-04 15:38:19"}
+{"Album":"Movies","Area":"","Genres":"Crime","Language":"","Year":"","level":"warn","message":"logger filter req is","search":"","timestamp":"2022-03-04 15:38:19"}
+{"Album":"Movies","Area":"","Genres":"Crime","Language":"","Year":"","level":"error","message":"logger filter req is","search":"","timestamp":"2022-03-04 15:38:19"}
+{"Album":"Movies","Area":"","Genres":"Crime","Language":"","Year":"","level":"info","message":"logger filter req is","search":"","timestamp":"2022-03-04 15:39:27"}
+{"Album":"Movies","Area":"","Genres":"Crime","Language":"","Year":"","level":"info","message":"logger filter req is","search":"","timestamp":"2022-03-04 15:41:12"}
+{"Album":"Movies","Area":"","Genres":"Crime","Language":"","Year":"","level":"error","message":"logger filter req is","search":"","timestamp":"2022-03-04 15:41:12"}
+{"Album":"Movies","Area":"","Genres":"Crime","Language":"","Year":"","level":"warn","message":"logger filter req is","search":"","timestamp":"2022-03-04 15:41:12"}
+{"Album":"Movies","Area":"","Genres":"Crime","Language":"","Year":"","level":"error","message":"logger filter req is","search":"","timestamp":"2022-03-04 15:41:12"}
+{"Album":"Movies","Area":"","Genres":"Crime","Language":"","Year":"","level":"info","message":"logger filter req is","search":"","timestamp":"2022-03-04 15:42:05"}
+{"Album":"Movies","Area":"","Genres":"Crime","Language":"","Year":"","level":"error","message":"logger filter req is","search":"","timestamp":"2022-03-04 15:42:05"}
+{"Album":"Movies","Area":"","Genres":"Crime","Language":"","Year":"","level":"warn","message":"logger filter req is","search":"","timestamp":"2022-03-04 15:42:05"}
+{"Album":"Movies","Area":"","Genres":"Crime","Language":"","Year":"","level":"error","message":"logger filter req is","search":"","timestamp":"2022-03-04 15:42:05"}
+{"additional":"properties","are":"passed along","level":"info","message":"Pass a message and this works","timestamp":"2022-03-04 15:42:05"}
+{"Album":"Movies","Area":"","Genres":"Crime","Language":"","Year":"","level":"info","message":"logger filter req is","search":"","timestamp":"2022-03-04 15:43:30"}
+{"Album":"Movies","Area":"","Genres":"Crime","Language":"","Year":"","level":"error","message":"logger filter req is","search":"","timestamp":"2022-03-04 15:43:30"}
+{"Album":"Movies","Area":"","Genres":"Crime","Language":"","Year":"","level":"warn","message":"logger filter req is","search":"","timestamp":"2022-03-04 15:43:30"}
+{"Album":"Movies","Area":"","Genres":"Crime","Language":"","Year":"","level":"error","message":"logger filter req is","search":"","timestamp":"2022-03-04 15:43:30"}
+{"additional":"properties","are":"passed along","level":"info","message":"Pass a message and this works","timestamp":"2022-03-04 15:43:30"}
+{"Album":"Movies","Area":"","Genres":"Crime","Language":"","Year":"","level":"info","message":"logger filter req is","search":"","timestamp":"2022-03-04 15:43:52"}
+{"Album":"Movies","Area":"","Genres":"Crime","Language":"","Year":"","level":"error","message":"logger filter req is","search":"","timestamp":"2022-03-04 15:43:52"}
+{"Album":"Movies","Area":"","Genres":"Crime","Language":"","Year":"","level":"warn","message":"logger filter req is","search":"","timestamp":"2022-03-04 15:43:52"}
+{"Album":"Movies","Area":"","Genres":"Crime","Language":"","Year":"","level":"error","message":"logger filter req is","search":"","timestamp":"2022-03-04 15:43:52"}
+{"additional":"properties","are":"passed along","level":"info","message":"Pass a message and this works","timestamp":"2022-03-04 15:43:52"}
+
+[32minfo[39m: logger filter req is {"Album":"Movies","Area":"","Genres":"Crime","Language":"","Year":"","search":"","timestamp":"2022-03-04 16:08:04"}
+[31merror[39m: logger filter req is {"Album":"Movies","Area":"","Genres":"Crime","Language":"","Year":"","search":"","timestamp":"2022-03-04 16:08:04"}
+[33mwarn[39m: logger filter req is {"Album":"Movies","Area":"","Genres":"Crime","Language":"","Year":"","search":"","timestamp":"2022-03-04 16:08:04"}
+[31merror[39m: logger filter req is {"Album":"Movies","Area":"","Genres":"Crime","Language":"","Year":"","search":"","timestamp":"2022-03-04 16:08:04"}
+[32minfo[39m: Pass a message and this works {"additional":"properties","are":"passed along","timestamp":"2022-03-04 16:08:04"}
+[32minfo[39m: logger filter req is {"Album":"Movies","Area":"","Genres":"","Language":"","Year":"","search":"","timestamp":"2022-03-07 11:00:16"}
+[31merror[39m: logger filter req is {"Album":"Movies","Area":"","Genres":"","Language":"","Year":"","search":"","timestamp":"2022-03-07 11:00:16"}
+[33mwarn[39m: logger filter req is {"Album":"Movies","Area":"","Genres":"","Language":"","Year":"","search":"","timestamp":"2022-03-07 11:00:16"}
+[31merror[39m: logger filter req is {"Album":"Movies","Area":"","Genres":"","Language":"","Year":"","search":"","timestamp":"2022-03-07 11:00:16"}
+[32minfo[39m: Pass a message and this works {"additional":"properties","are":"passed along","timestamp":"2022-03-07 11:00:16"}
+[32minfo[39m: logger filter req is {"Album":"Movies","Area":"","Genres":"","Language":"","Year":"","search":"","timestamp":"2022-03-07 11:19:41"}
+[31merror[39m: logger filter req is {"Album":"Movies","Area":"","Genres":"","Language":"","Year":"","search":"","timestamp":"2022-03-07 11:19:41"}
+[33mwarn[39m: logger filter req is {"Album":"Movies","Area":"","Genres":"","Language":"","Year":"","search":"","timestamp":"2022-03-07 11:19:41"}
+[31merror[39m: logger filter req is {"Album":"Movies","Area":"","Genres":"","Language":"","Year":"","search":"","timestamp":"2022-03-07 11:19:41"}
+[32minfo[39m: Pass a message and this works {"additional":"properties","are":"passed along","timestamp":"2022-03-07 11:19:41"}
+[32minfo[39m: logger filter req is {"Album":"Movies","Area":"","Genres":"","Language":"","Year":"","search":"","timestamp":"2022-03-07 11:19:55"}
+[31merror[39m: logger filter req is {"Album":"Movies","Area":"","Genres":"","Language":"","Year":"","search":"","timestamp":"2022-03-07 11:19:55"}
+[33mwarn[39m: logger filter req is {"Album":"Movies","Area":"","Genres":"","Language":"","Year":"","search":"","timestamp":"2022-03-07 11:19:55"}
+[31merror[39m: logger filter req is {"Album":"Movies","Area":"","Genres":"","Language":"","Year":"","search":"","timestamp":"2022-03-07 11:19:55"}
+[32minfo[39m: Pass a message and this works {"additional":"properties","are":"passed along","timestamp":"2022-03-07 11:19:55"}
+[32minfo[39m: logger filter req is {"Album":"Movies","Area":"","Genres":"Crime","Language":"","Year":"","search":"","timestamp":"2022-03-07 11:20:00"}
+[31merror[39m: logger filter req is {"Album":"Movies","Area":"","Genres":"Crime","Language":"","Year":"","search":"","timestamp":"2022-03-07 11:20:00"}
+[33mwarn[39m: logger filter req is {"Album":"Movies","Area":"","Genres":"Crime","Language":"","Year":"","search":"","timestamp":"2022-03-07 11:20:00"}
+[31merror[39m: logger filter req is {"Album":"Movies","Area":"","Genres":"Crime","Language":"","Year":"","search":"","timestamp":"2022-03-07 11:20:00"}
+[32minfo[39m: Pass a message and this works {"additional":"properties","are":"passed along","timestamp":"2022-03-07 11:20:00"}
+[32minfo[39m: logger filter req is {"Album":"Movies","Area":"","Genres":"Love","Language":"","Year":"","search":"","timestamp":"2022-03-07 11:22:09"}
+[31merror[39m: logger filter req is {"Album":"Movies","Area":"","Genres":"Love","Language":"","Year":"","search":"","timestamp":"2022-03-07 11:22:09"}
+[33mwarn[39m: logger filter req is {"Album":"Movies","Area":"","Genres":"Love","Language":"","Year":"","search":"","timestamp":"2022-03-07 11:22:09"}
+[31merror[39m: logger filter req is {"Album":"Movies","Area":"","Genres":"Love","Language":"","Year":"","search":"","timestamp":"2022-03-07 11:22:09"}
+[32minfo[39m: Pass a message and this works {"additional":"properties","are":"passed along","timestamp":"2022-03-07 11:22:09"}
+{"Album":"Movies","Area":"","Genres":"Comedy","Language":"","Year":"","level":"info","message":"logger filter req is","search":"","timestamp":"2022-03-07 11:24:53"}
+{"Album":"Movies","Area":"","Genres":"Comedy","Language":"","Year":"","level":"error","message":"logger filter req is","search":"","timestamp":"2022-03-07 11:24:53"}
+{"Album":"Movies","Area":"","Genres":"Comedy","Language":"","Year":"","level":"warn","message":"logger filter req is","search":"","timestamp":"2022-03-07 11:24:53"}
+{"Album":"Movies","Area":"","Genres":"Comedy","Language":"","Year":"","level":"error","message":"logger filter req is","search":"","timestamp":"2022-03-07 11:24:53"}
+{"additional":"properties","are":"passed along","level":"info","message":"Pass a message and this works","timestamp":"2022-03-07 11:24:53"}
+{"Album":"Movies","Area":"","Genres":"Love","Language":"","Year":"","level":"info","message":"logger filter req is","search":"","timestamp":"2022-03-07 11:30:29"}
+{"Album":"Movies","Area":"","Genres":"Love","Language":"","Year":"","level":"error","message":"logger filter req is","search":"","timestamp":"2022-03-07 11:30:29"}
+{"Album":"Movies","Area":"","Genres":"Love","Language":"","Year":"","level":"warn","message":"logger filter req is","search":"","timestamp":"2022-03-07 11:30:30"}
+{"Album":"Movies","Area":"","Genres":"Love","Language":"","Year":"","level":"error","message":"logger filter req is","search":"","timestamp":"2022-03-07 11:30:30"}
+{"additional":"properties","are":"passed along","level":"info","message":"Pass a message and this works","timestamp":"2022-03-07 11:30:30"}
+{"Album":"Movies","Area":"","Genres":"Love","Language":"","Year":"","level":"info","message":"logger filter req is","search":"","timestamp":"2022-03-07 11:30:54"}
+{"Album":"Movies","Area":"","Genres":"Love","Language":"","Year":"","level":"error","message":"logger filter req is","search":"","timestamp":"2022-03-07 11:30:54"}
+{"Album":"Movies","Area":"","Genres":"Love","Language":"","Year":"","level":"warn","message":"logger filter req is","search":"","timestamp":"2022-03-07 11:30:54"}
+{"Album":"Movies","Area":"","Genres":"Love","Language":"","Year":"","level":"error","message":"logger filter req is","search":"","timestamp":"2022-03-07 11:30:54"}
+{"additional":"properties","are":"passed along","level":"info","message":"Pass a message and this works","timestamp":"2022-03-07 11:30:54"}
+2022-03-07T16:37:48.500Z [right meow!] info: logger filter req is
+2022-03-07T16:37:48.507Z [right meow!] error: logger filter req is
+2022-03-07T16:37:48.509Z [right meow!] warn: logger filter req is
+2022-03-07T16:37:48.510Z [right meow!] error: logger filter req is
+2022-03-07T16:37:48.511Z [right meow!] info: Pass a message and this works
+2022-03-07T16:41:43.354Z [right meow!] info: logger filter req is : undefined
+2022-03-07T16:41:43.363Z [right meow!] error: logger filter req is : undefined
+2022-03-07T16:41:43.364Z [right meow!] warn: logger filter req is : undefined
+2022-03-07T16:41:43.365Z [right meow!] error: logger filter req is : undefined
+2022-03-07T16:41:43.366Z [right meow!] info: Pass a message and this works : undefined
+2022-03-07T16:43:08.889Z [right meow!] info: logger filter req is : undefined
+2022-03-07T16:43:08.897Z [right meow!] error: logger filter req is : undefined
+2022-03-07T16:43:08.898Z [right meow!] warn: logger filter req is : undefined
+2022-03-07T16:43:08.899Z [right meow!] error: logger filter req is : undefined
+2022-03-07T16:43:08.901Z [right meow!] info: Pass a message and this works : undefined
+2022-03-07T17:00:18.390Z [right meow!] info: logger filter req is : undefined
+2022-03-07T17:00:18.399Z [right meow!] error: logger filter req is : undefined
+2022-03-07T17:00:18.400Z [right meow!] warn: logger filter req is : undefined
+2022-03-07T17:00:18.401Z [right meow!] error: logger filter req is : undefined
+2022-03-07T17:00:18.402Z [right meow!] info: Pass a message and this works : undefined
+2022-03-07T17:01:14.777Z [right meow!] info: logger filter req is : undefined
+2022-03-07T17:01:14.785Z [right meow!] error: logger filter req is : undefined
+2022-03-07T17:01:14.786Z [right meow!] warn: logger filter req is : undefined
+2022-03-07T17:01:14.789Z [right meow!] error: logger filter req is : undefined
+2022-03-07T17:01:14.792Z [right meow!] info: Pass a message and this works : undefined
+2022-03-07T17:07:31.768Z [right meow!] info: logger filter req is : undefined
+2022-03-07T17:07:31.779Z [right meow!] error: logger filter req is : undefined
+2022-03-07T17:07:31.812Z [right meow!] warn: logger filter req is : undefined
+2022-03-07T17:07:31.813Z [right meow!] error: logger filter req is : undefined
+2022-03-07T17:07:31.815Z [right meow!] info: Pass a message and this works : undefined
+2022-03-07T17:43:53.575Z [right meow!] error: An error occurs, please fix it right away! : undefined
+2022-03-07T17:44:44.526Z [right meow!] error: An error occurs, please fix it right away!
+2022-03-07T17:46:16.513Z [Client API] error: An error occurs, please fix it right away!
+2022-03-07T17:46:49.746Z [right meow!] error: An error occurs, please fix it right away!
+2022-03-07T17:50:36.665Z [right meow!] error: An error occurs, please fix it right away!
+2022-03-07T17:51:44.408Z [Client API] error: An error occurs, please fix it right away!
+2022-03-07T17:51:59.298Z [undefined] info: logger filter req is
+2022-03-07T17:51:59.300Z [undefined] error: logger filter req is
+2022-03-07T17:51:59.301Z [undefined] warn: logger filter req is
+2022-03-07T17:51:59.303Z [undefined] error: logger filter req is
+2022-03-07T17:51:59.304Z [undefined] info: Pass a message and this works
+2022-03-07T17:53:46.687Z [undefined] info: logger filter req is
+2022-03-07T17:53:46.694Z [undefined] error: logger filter req is
+2022-03-07T17:53:46.695Z [undefined] warn: logger filter req is
+2022-03-07T17:53:46.698Z [Server Side Logging] error: logger filter req is
+2022-03-07T18:04:58.213Z [undefined] info: logger filter req is
+2022-03-07T18:04:58.215Z [undefined] error: logger filter req is
+2022-03-07T18:04:58.217Z [undefined] warn: logger filter req is
+2022-03-07T18:04:58.218Z [Server Side Logging] error: logger filter req is
+2022-03-07T18:05:43.125Z [undefined] info: logger filter req is
+2022-03-07T18:05:43.127Z [undefined] error: logger filter req is
+2022-03-07T18:05:43.128Z [undefined] warn: logger filter req is
+2022-03-07T18:05:43.129Z [Server Side Logging] error: logger filter req is
+2022-03-07T18:07:31.142Z [undefined] info: logger filter req is
+2022-03-07T18:07:31.143Z [undefined] error: logger filter req is
+2022-03-07T18:07:31.144Z [undefined] warn: logger filter req is
+2022-03-07T18:07:31.145Z [Server Side Logging] error: logger filter req is
+2022-03-07T18:08:12.444Z [Client API] error: logger caleed from Page AlgoliaSearch
+2022-03-07T18:09:59.588Z [Client API] error: logger called from Page AlgoliaSearch
+2022-03-07T19:05:14.398Z [Client API] error: An error occurs, please fix it right away!
+2022-03-07T19:24:40.568Z [Client API] error: An error occurs, please fix it right away!
+2022-03-07T19:41:27.068Z [Client API] error: An error occurs, please fix it right away!
+2022-03-07T21:29:23.955Z [Client API] error: An error occurs, please fix it right away!
+2022-03-07T21:29:45.760Z [Client API] error: An error occurs, please fix it right away!
+2022-03-07T21:31:54.868Z [Client API] error: An error occurs, please fix it right away!
+2022-03-07T21:33:07.852Z [Client API] error: An error occurs, please fix it right away!
+2022-03-07T21:34:16.523Z [Client API] error: An error occurs, please fix it right away!
+2022-03-07T21:39:20.916Z [Client API] error: An error occurs, please fix it right away!
+2022-03-07T21:42:01.972Z [Client API] error: An error occurs, please fix it right away!
+2022-03-07T21:46:54.138Z [Client API] error: An error occurs, please fix it later!
+2022-03-08T15:13:26.823Z [Client API] error: An error occurs, please fix it later!

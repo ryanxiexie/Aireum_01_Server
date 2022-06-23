@@ -1,0 +1,27 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon -r dotenv/config index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/logging": "^9.8.0",
+    "@google-cloud/logging-winston": "^4.1.2",
+    "algoliasearch": "^4.12.1",
+    "body-parser": "^1.19.2",
+    "cors": "^2.8.5",
+    "dotenv": "^15.0.0",
+    "express": "^4.17.2",
+    "firebase": "^9.1.1",
+    "firebase-admin": "^10.0.2",
+    "lodash": "^4.17.21",
+    "nodemon": "^2.0.15",
+    "stacktrace-js": "^2.0.2",
+    "winston": "^3.6.0"
+  }
+}
