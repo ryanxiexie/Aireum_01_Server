@@ -43,9 +43,9 @@ List the ready features here:
 
 - Clone this repo to your desktop.
 
-- Update AgoliaSearch. Follow this video instructions [here]("https://www.youtube.com/watch?v=ZNVAPpTpKpk&t=1182s")(watch the first 27 minutes for set up, replace with your own info in ./seed.sh), also update `.env` the fields: `ALGOLIA_APP_ID, ALGOLIA_API_KEY, ALGOLIA_INDEX_NAME`, with your own.
+- Update AgoliaSearch. Follow this video instructions [here](https://www.youtube.com/watch?v=ZNVAPpTpKpk&t=1182s)(watch the first 27 minutes for set up, replace with your own info in ./seed.sh), also update `.env` the fields: `ALGOLIA_APP_ID, ALGOLIA_API_KEY, ALGOLIA_INDEX_NAME`, with your own.
 
-- Update Firebase and Google Logging.To use the Google Logging services and firebase admin functions, please replace with your own service account file, get service account file from `Firebase-Project Overview-Project settings-Service accounts-Generate new private key`,change name to `service-account-file.json` and save it locally in the parent folder of this server folder. Make sure grant the `Owner` role to this service account [here]("https://console.cloud.google.com/iam-admin")
+- Update Firebase and Google Logging.To use the Google Logging services and firebase admin functions, please replace with your own service account file, get service account file from `Firebase-Project Overview-Project settings-Service accounts-Generate new private key`,change name to `service-account-file.json` and save it locally in the parent folder of this server folder. Make sure grant the `Owner` role to this service account [here](https://console.cloud.google.com/iam-admin)
 
 ## Usage
 
@@ -55,7 +55,7 @@ List the ready features here:
 
 ## Testing
 
-- Once have both [client]("https://github.com/Diting-Lab/Aireum_01_Client") and server side codes cloned and set up correctly, please follow the [testing guide]("https://docs.google.com/document/d/1xepbCo5pPROmnnxAJuL6T3_z86CJXICfyPDbyZI7irQ/edit?usp=sharing") to test if all the pages and functions are working well.
+- Once have both [client](https://github.com/Diting-Lab/Aireum_01_Client) and server side codes cloned and set up correctly, please follow the [testing guide](https://docs.google.com/document/d/1xepbCo5pPROmnnxAJuL6T3_z86CJXICfyPDbyZI7irQ/edit?usp=sharing) to test if all the pages and functions are working well.
 
 ## Project Status
 
